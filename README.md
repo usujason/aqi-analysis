@@ -36,6 +36,12 @@ __Category Labels__
 |201 to 300|Purple|Very Unhealthy|
 |Over 300|Black|Hazardous|
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 ### Todos
 
  - Validate results
