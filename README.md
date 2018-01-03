@@ -28,7 +28,7 @@ __Column Headers__
 __Category Labels__
 
 |AQI Range|EPA Color Scale|EPA Descriptor|
-|---|-------------------------------|------------|-------------|
+| ------------- |:-------------:| -----:|-----:|
 |0 to 50|Green|Good|
 |51 to 100|Yellow|Moderate|
 |101 to 150|Orange|Unhealthy for Sensitive Groups|
